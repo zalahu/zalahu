@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Salahudeen 👋
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zalahu)
 <!--
 **zalahu/zalahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
