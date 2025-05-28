@@ -1,4 +1,7 @@
 ## Hi I'm Salahudeen 👋
+![Engineer at Oil and Gas Energy Plant](https://www.isa.org/getmedia/cbaa342f-69fc-42ec-934e-ee7108e12bd6/ISA-Standards-are-Practical-Solutions-from-Industry-Experts.jpg?width=300&height=192&ext=.jpg)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zalahu)
 <!--
 **zalahu/zalahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
