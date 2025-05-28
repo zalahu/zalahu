@@ -9,7 +9,16 @@
 - 💞️ My goal is to drive the transition toward Autonomous Operations and Predictive Maintenance, enabling cleaner, smarter, and more sustainable energy systems for a resilient global economy.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/salahudeen-muhammed-pmp-mba-6039b075)
 
-My Skills Python PyTorch TensorFlow Keras Sklearn OpenCV AWS Flask
+## My AI Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zalahu)
 <!--
 **zalahu/zalahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
