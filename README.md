@@ -41,10 +41,10 @@
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalahu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalahu&layout=compact&theme=radical)
 ### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zalahu&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zalahu&theme=radical)](https://git.io/streak-stats)
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=zalahu&theme=radical&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=zalahu&theme=radical&no-frame=true&margin-w=15)
 
 ## Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/salahudeen-muhammed-pmp-mba-6039b075)
