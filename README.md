@@ -1,6 +1,7 @@
 ## Hi👋 I'm Salahudeen..! 
-![Engineer at Oil and Gas Energy Plant](https://www.isa.org/getmedia/cbaa342f-69fc-42ec-934e-ee7108e12bd6/ISA-Standards-are-Practical-Solutions-from-Industry-Experts.jpg?width=300&height=192&ext=.jpg)
-
+<!--![Engineer at Oil and Gas Energy Plant](https://www.isa.org/getmedia/cbaa342f-69fc-42ec-934e-ee7108e12bd6/ISA-Standards-are-Practical-Solutions-from-Industry-Experts.jpg?width=300&height=192&ext=.jpg)-->
+<img src="https://github.com/zalahu/zalahu/blob/main/Assets/Autonomous_Operations.png" width="300" height="292" alt="Automation"/>
+<!--![Automation](https://github.com/zalahu/zalahu/blob/main/Assets/Autonomous_Operations.png?width=200&height=192&ext=.jpg)-->
 "Driven by the power of AI to reshape industries, elevate lives, and redefine how we work! 🤖"
 
 ## About Me ..!
