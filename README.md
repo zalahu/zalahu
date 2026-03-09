@@ -38,7 +38,7 @@
 
 
 ## GitHub Stats
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalahu&show_icons=true&theme=radical)
+![zalahu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalahu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalahu&layout=compact&theme=radical)
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zalahu&theme=radical)](https://git.io/streak-stats)
